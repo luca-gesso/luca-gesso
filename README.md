@@ -1,16 +1,23 @@
-## Hi there 👋
+# Luca Gesso
 
-<!--
-**luca-gesso/luca-gesso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT & Telecommunications student in Italy, focused on building strong foundations in software engineering, Linux, networking and artificial intelligence.
 
-Here are some ideas to get you started:
+## Project Google 2028
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project Google 2028 is my long-term development plan for turning consistent study into practical technical skills and documented projects.
+
+## Current focus
+
+- Software engineering fundamentals
+- Linux and system administration
+- Computer networks
+- Artificial intelligence and automation
+- Git, GitHub and technical documentation
+
+## How I work
+
+I learn by building, testing and improving. Each repository is designed to have a clear purpose, readable documentation and measurable progress.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/luca-gesso-3877a43a0/)
